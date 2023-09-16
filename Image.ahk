@@ -33,6 +33,6 @@ UrlDownloadToFile, https://github.com/philobater/ahk-claim/raw/main/Images/use.b
 UrlDownloadToFile, https://github.com/philobater/ahk-claim/raw/main/Images/username.bmp, %Folder%\username.bmp
 UrlDownloadToFile, https://github.com/philobater/ahk-claim/raw/main/Images/username_alt.bmp, %Folder%\username_alt.bmp
 UrlDownloadToFile, https://github.com/philobater/ahk-claim/raw/main/Images/Visa.bmp, %Folder%\Visa.bmp
-sleep, 10000
+sleep, 20000
 exitapp
 return
