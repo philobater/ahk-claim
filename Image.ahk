@@ -29,10 +29,9 @@ UrlDownloadToFile, https://github.com/philobater/ahk-claim/raw/main/Images/start
 UrlDownloadToFile, https://github.com/philobater/ahk-claim/raw/main/Images/start_loaded.bmp, %Folder%\start_loaded.bmp
 UrlDownloadToFile, https://github.com/philobater/ahk-claim/raw/main/Images/Success.bmp, %Folder%\Success.bmp
 UrlDownloadToFile, https://github.com/philobater/ahk-claim/raw/main/Images/tryprime.bmp, %Folder%\tryprime.bmp
-UrlDownloadToFile, https://github.com/philobater/ahk-claim/raw/main/Images/use.bmp, %Folder%\use.bmp
-UrlDownloadToFile, https://github.com/philobater/ahk-claim/raw/main/Images/username.bmp, %Folder%\username.bmp
-UrlDownloadToFile, https://github.com/philobater/ahk-claim/raw/main/Images/username_alt.bmp, %Folder%\username_alt.bmp
+UrlDownloadToFile, https://github.com/philobater/ahk-claim/raw/main/Images/Use.bmp, %Folder%\Use.bmp
+UrlDownloadToFile, https://github.com/philobater/ahk-claim/raw/main/Images/Username.bmp, %Folder%\Username.bmp
+UrlDownloadToFile, https://github.com/philobater/ahk-claim/raw/main/Images/Username_alt.bmp, %Folder%\Username_alt.bmp
 UrlDownloadToFile, https://github.com/philobater/ahk-claim/raw/main/Images/Visa.bmp, %Folder%\Visa.bmp
-sleep, 60000
 exitapp
 return
